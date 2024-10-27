@@ -1,5 +1,5 @@
 ## Whac A Mole Game App
-<img src="https://github.com/user-attachments/assets/47cee6b0-925d-4b82-b410-ca5b0a113bc4" alt="Ekran-Kaydı-2024-10-18" style="width:1024px; height:768px;" />
+<img src="https://github.com/user-attachments/assets/47cee6b0-925d-4b82-b410-ca5b0a113bc4" alt="Ekran-Kaydı-2024-10-18" style="width:800px; height:400px;" />
 
 <details>
     <summary><h2>Uygulma Amacı</h2></summary>
